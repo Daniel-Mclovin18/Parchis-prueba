@@ -10,7 +10,6 @@ TAMANO_TABLERO = 600
 MARGEN = 20
 CELDA = 40
 
-# Colores mejorados para la interfaz
 COLORES = {
     'fondo_principal': '#2C3E50',
     'fondo_tablero': '#ECF0F1',
